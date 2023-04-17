@@ -11,7 +11,7 @@ Setting up Firebase Realtime Database, hook it up to your project, add data to t
 display it in your app, and finally, delete the data from the database.
 
 ## Credits
-Kevin Ng UCI Coding Bootcamp
+Kevin Ng
 
 ## Contact
 -Github: [KevinNg2](https://github.com/KevinNg2)
