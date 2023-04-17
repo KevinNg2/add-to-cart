@@ -6,6 +6,9 @@ This is a PWA(Progressive Web App) that was designed to solve simple daily probl
 the grocery store using HTML, CSS, Javascript and Firebase Database. Firebase will allow users to use a realtime database to store the
 app's data. 
 
+![add-to-cart](add-to-cart-pic.png)
+
+
 ## Usage
 Setting up Firebase Realtime Database, hook it up to your project, add data to the database, pull the data from the database in realtime,
 display it in your app, and finally, delete the data from the database.
